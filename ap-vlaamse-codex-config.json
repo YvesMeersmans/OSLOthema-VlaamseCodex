@@ -5,6 +5,7 @@
   "publicatiedatum": "2019-02-07",
   "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Vocabularium & applicatieprofielen",
+  "description_file" : "ap-vlaamse-codex.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Vlaamse Codex",
