@@ -16,7 +16,7 @@
   "documentatie": [
     {
       "naam" : "Proof-of-concept SPARQL Endpoint",
-      "waarde" : "http://staging.opendata.codex.vandenbroele.be:8888/sparql"
+      "waarde" : "https://staging.opendata.codex.vandenbroele.be:8888/sparql"
     }
   ],
   "charter": [],
